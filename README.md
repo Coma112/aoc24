@@ -9,7 +9,7 @@
 | 5       | **4**                       | It wasn't as bad as the code looks. |
 | 6       | **7**                       | I didn't understand it that much at first. Also, I looked at the task completely differently for a long time than when I actually figured out what I wanted. |
 | 7       | **4**                             | It was simple. I needed to search some things online but it was ok           |
-| 8       |                             |           |
+| 8       | **4**                          |   I would call it a bit easy. Doesn't require too much brain capacity.        |
 | 9       |                             |           |
 | 10      |                             |           |
 | 11      |                             |           |
