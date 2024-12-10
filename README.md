@@ -11,7 +11,7 @@
 | 7       | **4**                             | It was simple. I needed to search some things online but it was ok           |
 | 8       | **4**                          |   I would call it a bit easy. Doesn't require too much brain capacity.        |
 | 9       | **8**                            |  Probably the hardest for me yet. I needed a lot of time understanding MYSELF and the code itself.         |
-| 10      |                             |           |
+| 10      | **5**                            |  Wasn't that complicated. I just copy-pasted from one of my older solution         |
 | 11      |                             |           |
 | 12      |                             |           |
 | 13      |                             |           |
